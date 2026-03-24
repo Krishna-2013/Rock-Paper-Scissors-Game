@@ -7,8 +7,8 @@ The user plays against the computer with random move generation.
 https://ministonepaperscissorgame.netlify.app/
 
 ## 📷 Screenshots
-<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/bfbca441-5263-42f5-946c-8e897fc340d0" />
 
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/cef24811-7b2d-487d-80e9-82ff0ab02a48" />
 
 ## 📌 Features
 * User vs Computer gameplay
