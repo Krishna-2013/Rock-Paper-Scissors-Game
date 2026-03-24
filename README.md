@@ -4,7 +4,8 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 The user plays against the computer with random move generation.
 
 ## 🚀 Live Demo
-https://ministonepaperscissorgame.netlify.app/
+
+https://krishna-2013.github.io/Rock-Paper-Scissors-Game/
 
 ## 📷 Screenshots
 
