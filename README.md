@@ -48,4 +48,8 @@ rock-paper-scissors/
 
 ## 🙌 Author
 Krishna
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
 GitHub: https://github.com/yourusername
